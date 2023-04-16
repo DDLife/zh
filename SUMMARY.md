@@ -1,1 +1,2 @@
 - [:boat:](/README.md)
+- [核心](/docs/core.md)

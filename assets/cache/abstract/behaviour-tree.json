@@ -1,0 +1,1 @@
+{"id":"abstract/behaviour-tree","deps":["behaviourtree"],"as":{},"info":"","extern":[{"id":"BehaviourNodeStatus","info":"\n\nDS 对 node 设置了四种 status:\n\n- @SUCCESS\n- @FAILED\n- @READY\n- @RUNNING\n\n"},{"id":"Visit","info":"\n\n对 tick 进行转发和响应, 向前传播\n\n"}],"local":[]}

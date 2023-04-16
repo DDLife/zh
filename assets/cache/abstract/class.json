@@ -1,0 +1,1 @@
+{"id":"abstract/class","deps":[],"as":{},"info":"\n\n关于 lua Class 设计的解释\n\n","extern":[{"id":"setter","info":"\n\nt, v, old => ()\n\n用于数据代理\n\n"}],"local":[]}

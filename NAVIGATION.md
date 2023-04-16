@@ -1,1 +1,1 @@
-- [:house:](https://DDLife.github.io/)
+- [:house:](https://DDLife.github.io/zh/)
